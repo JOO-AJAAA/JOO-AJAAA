@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name Here]
+# Hello, I'm Yohanes Gerardus Haga Zai 🧑🏼‍💻
 
 I am an undergraduate student and software developer passionate about bridging the gap between theoretical mathematics and practical, real-world applications. I thrive on deconstructing complex problems, understanding the foundational logic, and building solutions from the ground up. 
 
