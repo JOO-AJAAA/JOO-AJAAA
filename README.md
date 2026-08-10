@@ -2,7 +2,7 @@
 
 I am an undergraduate student and software developer passionate about bridging the gap between theoretical mathematics and practical, real-world applications. I thrive on deconstructing complex problems, understanding the foundational logic, and building solutions from the ground up. 
 
-I have a deep curiosity for tinkering and exploring how things work behind the scenes, which drives my ongoing work in intelligent systems and hardware integration.
+I have a deep curiosity for tinkering and exploring how things work behind the scenes
 
 ### 🔬 Technical Focus
 
@@ -25,6 +25,3 @@ When I am not designing system architectures or training neural networks, my tim
 
 > *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* 
 > — Alan Turing
-
----
-📫 **Get in Touch:** [Insert LinkedIn/Email/Portfolio Link]
