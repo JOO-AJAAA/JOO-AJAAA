@@ -1,7 +1,5 @@
 # Hello, I'm Yohanes Gerardus Haga Zai 🧑🏼‍💻
 
-I am an undergraduate student and software developer passionate about bridging the gap between theoretical mathematics and practical, real-world applications. I thrive on deconstructing complex problems, understanding the foundational logic, and building solutions from the ground up. 
-
 I have a deep curiosity for tinkering and exploring how things work behind the scenes
 
 ### 🔬 Technical Focus
@@ -18,10 +16,7 @@ I have a deep curiosity for tinkering and exploring how things work behind the s
 
 ### 📚 Beyond the Screen
 
-When I am not designing system architectures or training neural networks, my time is spent:
-*   **Reading:** Continuously expanding my knowledge across various disciplines.
-*   **Studying Mathematics:** Delving into the theoretical frameworks and algorithms that power modern computation.
-*   **Tinkering:** Constantly experimenting with new technologies to see how they can be manipulated and improved.
+When I am not on leptop, my time is spent:, **Reading:**, **Studying Mathematics:**, **Tinkering:**
 
 > *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* 
 > — Alan Turing
