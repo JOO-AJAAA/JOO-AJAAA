@@ -4,9 +4,9 @@ I have a deep curiosity for tinkering and exploring how things work behind the s
 
 ### 🔬 Technical Focus
 
-*   **Artificial Intelligence & Machine Learning:** Applied Deep Learning, Convolutional Neural Networks (CNNs), and Computer Vision. I prioritize mastering the underlying mathematical frameworks—like linear algebra—before deploying models.
-*   **Internet of Things (IoT):** Building smart, responsive environments by integrating ESP32, Arduino components, and various sensors.
-*   **Full-Stack & Spatial Web Development:** Crafting clean, interactive user interfaces and robust backends utilizing Python (NumPy), React, and Supabase, with a keen eye for UI/UX aesthetics and custom mapping tools.
+*   **Artificial Intelligence & Machine Learning**
+*   **Internet of Things (IoT)**
+*   **Full-Stack Development** 
 
 ### 🚀 Recent Endeavors
 
