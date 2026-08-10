@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Yohanes Gerardus Haga Zai 🧑🏼‍💻</h1>
-  <p><i>I have a deep curiosity for tinkering and exploring how things work behind the scenes</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=+Serif+Kontemporer&pause=1000&width=435&lines=Hello!;I+am+Yohanes+Gerardus+Haga+Zai;an+Machine+learning+and++IoT+Engginer" alt="Typing SVG" />
 </div>
 
 <br>
