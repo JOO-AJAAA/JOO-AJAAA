@@ -37,7 +37,8 @@
 <p>
   📖 <b>Reading</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
   🧮 <b>Studying Mathematics</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
-  🔧 <b>Tinkering</b>
+  🔧 <b>Tinkering</b> &nbsp;&nbsp; | &nbsp;&nbsp;
+  🧠 <b>Thinking</b>
 </p>
 
 <br>
