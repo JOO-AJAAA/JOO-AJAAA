@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=+Serif+Kontemporer&duration=3000&pause=700&width=435&lines=Hello!;I+am+Yohanes+Gerardus+Haga+Zai;an+Machine+learning+and++IoT+Enthusiast" alt="Typing SVG" />
-  <p><i>I have a deep curiosity for tinkering and exploring how things work behind the scenes</i></p>
 </div>
+
+<p><i>I have a deep curiosity for tinkering and exploring how things work behind the scenes</i></p>
 
 <br>
 
