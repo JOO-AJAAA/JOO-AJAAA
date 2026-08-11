@@ -33,7 +33,6 @@
 
 <hr>
 
-<h3>📚 Beyond the Screen</h3>
 <p>When I am not on laptop, my time is spent:</p>
 <p>
   📖 <b>Reading</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
