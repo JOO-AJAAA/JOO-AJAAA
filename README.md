@@ -26,11 +26,6 @@
     <b>AI Smart Doorbell:</b><br>
     An IoT security architecture integrating edge hardware with custom facial recognition pipelines, utilizing cosine distance-based metric filtering for precise biometric logging.
   </li>
-  <br>
-  <li>
-    <b>Interactive 3D Web Environments:</b><br>
-    Building interactive user experiences utilizing React Three Fiber.
-  </li>
 </ul>
 
 <hr>
