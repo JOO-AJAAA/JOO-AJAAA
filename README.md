@@ -35,17 +35,18 @@
 
 <hr>
 
-<p>When I am not on laptop, my time is spent:</p>
+<p>When I am not coding, my time is spent:</p>
 <p>
   📖 <b>Reading</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
   🧮 <b>Studying Mathematics</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
   🔧 <b>Tinkering</b> &nbsp;&nbsp; | &nbsp;&nbsp;
   🧠 <b>Thinking</b>
+  🎬 <b>Watching</b>
+  
 </p>
 
 <br>
 
 <blockquote align="center">
   <p>"We can only see a short distance ahead, but we can see plenty there that needs to be done."</p>
-  <p>— <b>Alan Turing</b></p>
 </blockquote>
