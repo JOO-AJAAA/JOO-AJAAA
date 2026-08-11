@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=+Serif+Kontemporer&size=30&duration=3000&pause=700&width=435&lines=Hello!;I+am+Yohanes+Gerardus+Haga+Zai;an+Machine+learning+and++IoT+Engginer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=+Serif+Kontemporer&duration=3000&pause=700&width=435&lines=Hello!;I+am+Yohanes+Gerardus+Haga+Zai;an+Machine+learning+and++IoT+Engginer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3>🚀 Recent Endeavors</h3>
+<h3>💎 Featured Projects</h3>
 <ul>
   <li>
     <b>AgroDecision:</b><br>
