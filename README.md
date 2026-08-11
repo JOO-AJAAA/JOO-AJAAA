@@ -9,6 +9,7 @@
 <ol>
   <li><b>Artificial Intelligence & Machine Learning</b></li>
   <li><b>Internet of Things (IoT)</b></li>
+  <li><b>Data Science</b></li>
   <li><b>Full-Stack Development</b></li>
 </ol>
 
