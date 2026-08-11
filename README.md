@@ -17,8 +17,8 @@
 
 <h3>💎 Featured Projects</h3>
 <ul>
-  <li a href ="https://github.com/JOO-AJAAA/COLSP_student_complaint">
-    <b>COLSP</b><br>
+  <li>
+    <a href="https://github.com/JOO-AJAAA/COLSP_student_complaint">COLSP</a><br>
     The Student Complaint Platform includes the following key features: Smart Filtering, Auto-Summary & Sentiment, Guest Mode and  Chatbot "YALQKA" (RAG):
   </li>
   <br>
