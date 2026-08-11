@@ -17,9 +17,9 @@
 
 <h3>💎 Featured Projects</h3>
 <ul>
-  <li>
-    <b>AgroDecision:</b><br>
-    A spatial analysis system utilizing PostGIS, Python, and satellite datasets for automated land damage warnings.
+  <li a href ="https://github.com/JOO-AJAAA/COLSP_student_complaint">
+    <b>COLSP</b><br>
+    The Student Complaint Platform includes the following key features: Smart Filtering, Auto-Summary & Sentiment, Guest Mode and  Chatbot "YALQKA" (RAG):
   </li>
   <br>
   <li>
@@ -40,7 +40,7 @@
   📖 <b>Reading</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
   🧮 <b>Studying Mathematics</b> &nbsp;&nbsp; | &nbsp;&nbsp; 
   🔧 <b>Tinkering</b> &nbsp;&nbsp; | &nbsp;&nbsp;
-  🧠 <b>Thinking</b>
+  🧠 <b>Thinking</b> &nbsp;&nbsp; | &nbsp;&nbsp;
   🎬 <b>Watching</b>
   
 </p>
