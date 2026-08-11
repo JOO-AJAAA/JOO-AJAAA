@@ -6,11 +6,11 @@
 <br>
 
 <h3>🔬 Technical Focus</h3>
-<ul>
+<ol>
   <li><b>Artificial Intelligence & Machine Learning</b></li>
   <li><b>Internet of Things (IoT)</b></li>
   <li><b>Full-Stack Development</b></li>
-</ul>
+</ol>
 
 <hr>
 
