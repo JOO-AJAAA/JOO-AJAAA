@@ -24,7 +24,7 @@
   </li>
   <br>
   <li>
-    <b>AI Smart Doorbell:</b><br>
+    <a href="https://github.com/JOO-AJAAA/FUSDO-Smart-Doorbell">FUSDO(Future Smart Dorrbell)</a><br>
     An IoT security architecture integrating edge hardware with custom facial recognition pipelines, utilizing cosine distance-based metric filtering for precise biometric logging.
   </li>
 </ul>
